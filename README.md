@@ -32,5 +32,3 @@ AgriScan successfully fulfills the core problem statement by providing smallhold
 - **Model Quantization:** The Keras model was converted using the `DEFAULT` TFLite Optimization flag, successfully reducing the model size to ~2.7 MB—ensuring sub-100ms inference times on low-end Android devices.
 - **Edge Deployment:** Deployed via `tflite_flutter` entirely locally. No internet connection is required to scan plants, addressing the constraint of rural farm usage.
 - **Cloud Synchronization:** Firebase Firestore was integrated purely for historical logging and persistence across user sessions.
-
-## 6. Project Deliverables Checklist
