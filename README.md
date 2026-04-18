@@ -34,10 +34,3 @@ AgriScan successfully fulfills the core problem statement by providing smallhold
 - **Cloud Synchronization:** Firebase Firestore was integrated purely for historical logging and persistence across user sessions.
 
 ## 6. Project Deliverables Checklist
-- [x] **Disease Detection via Camera** (Completed via TFLite Flutter pipeline)
-- [x] **Treatment Recommendations** (Completed via structured disease JSON mapping)
-- [x] **Scan History Tracker** (Completed via Firebase cloud-sync)
-- [x] **Augmentation & Class Balancing** (Completed in training phase)
-- [x] **MobileNetV2 Architecture** (Completed)
-- [x] **Model Evaluation Metrics** (Completed)
-- [x] **Final Report** (This Document)
